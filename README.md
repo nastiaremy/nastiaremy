@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nastiaremy
-- 👀 I’m interested in UX design
-- 🌱 I’m currently learning how to make my first website
-- 💞️ I’m looking to collaborate on new project
-- 📫 How to reach me: +44 7459953766
+- 👀 I’m learning Python and I'd like to know more UX design.
+
 
 <!---
 nastiaremy/nastiaremy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
