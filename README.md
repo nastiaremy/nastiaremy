@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nastiaremy
-- 👀 I’m learning Python and I'd like to know more UX design.
-
+- 👀 I'm passionate about sustainability and building green technology solutions.
 
 <!---
 nastiaremy/nastiaremy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
